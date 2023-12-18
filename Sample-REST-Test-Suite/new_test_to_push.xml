@@ -81,7 +81,7 @@
         <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
         <con:jmsPropertyConfig/>
         <con:parameters>
-          <con:entry key="buystring" value="Item 1"/>
+          <con:entry key="buystring" value="Item 2"/>
         </con:parameters>
         <con:environmentSpec>
           <con:entry environmentId="f27a7295-1f08-4642-a3be-7ae9878517f0">
