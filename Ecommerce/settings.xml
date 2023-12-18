@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:interface xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config" xsi:type="con:RestService" id="e5d8bd5a-d8eb-4541-bc6d-b4901a1faebb" wadlVersion="http://wadl.dev.java.net/2009/02" name="Ecommerce" type="rest">
-  <con:settings id="052716ae-3783-475a-b51d-db3f7467ccac">
+  <con:settings id="e8fa82a3-b887-4a7d-aa48-5b2bd98824ce">
     <con:setting id="8b4877da-9c17-4d74-baf9-2881747b6a79fileName">http%3A%2F%2Flocalhost%3A8084</con:setting>
     <con:setting id="e5d8bd5a-d8eb-4541-bc6d-b4901a1faebbfileName">Ecommerce</con:setting>
   </con:settings>
